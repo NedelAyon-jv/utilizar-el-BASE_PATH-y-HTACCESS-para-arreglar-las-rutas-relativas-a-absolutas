@@ -1,0 +1,1 @@
+# utilizar-el-BASE_PATH-y-HTACCESS-para-arreglar-las-rutas-relativas-a-absolutas
